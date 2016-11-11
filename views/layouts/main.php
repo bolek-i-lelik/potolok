@@ -41,6 +41,7 @@ AppAsset::register($this);
     <div class="col-lg-12 substrate"></div>
     <div name="article" class="col-lg-12 article">
     "Статья о компании"
+    <?= $content ?>
     </div>
     <div name="gallery" class="col-lg-12">
         <div class="col-lg-2">
